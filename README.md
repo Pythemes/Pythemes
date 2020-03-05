@@ -8,11 +8,11 @@ Here you will find a collction of themes by:
 
 ![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)<br />
 ![Vshield](https://img.shields.io/badge/Vila-Approved-green)
-<br />
+<br /> <br />
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/chromebot-websites/chromebot.cf?logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/chromebot-websites/chromebot.cf?label=and&logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/chromebot-websites/chromebot.cf?label=which%20is&logo=react&logoColor=white)
-<br/>
+<br /><br />
 ![Using github actions](https://img.shields.io/badge/Build%20with-github%20actions-red?logo=github)<br/>
 ![Community on discord](https://img.shields.io/badge/Community%20on-discord-orange?logo=discord&logoColor=white)<br/>
 ![Using webstorm](https://img.shields.io/badge/Using%20jetbrains-webstorm-1ABEE4?logo=webstorm)<br/>
