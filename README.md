@@ -4,11 +4,11 @@ Here you will find a collction of themes by:
 - [@Minion3665](https://github.com/Minion3665)
 - [@Vilagamer999](https://github.com/Vilagamer999)
 
-![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)<br>
-![Vshield](https://img.shields.io/badge/Vila-Approved-green)
-
 <hr>
 
+![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)<br>
+![Vshield](https://img.shields.io/badge/Vila-Approved-green)
+<br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/chromebot-websites/chromebot.cf?logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/chromebot-websites/chromebot.cf?label=and&logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/chromebot-websites/chromebot.cf?label=which%20is&logo=react&logoColor=white)
