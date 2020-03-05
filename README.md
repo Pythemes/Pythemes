@@ -4,7 +4,7 @@ Here you will find a collction of themes by:
 - [@Minion3665](https://github.com/Minion3665)
 - [@Vilagamer999](https://github.com/Vilagamer999)
 
-![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)
+![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)<br>
 ![Vshield](https://img.shields.io/badge/Vila-Approved-green)
 <hr>
 
