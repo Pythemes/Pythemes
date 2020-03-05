@@ -6,9 +6,9 @@ Here you will find a collction of themes by:
 
 <hr>
 
-![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)<br>
+![Mshield](https://img.shields.io/badge/Minion-Passing%20-yellowgreen)<br />
 ![Vshield](https://img.shields.io/badge/Vila-Approved-green)
-<br>
+<br />
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/chromebot-websites/chromebot.cf?logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/chromebot-websites/chromebot.cf?label=and&logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/chromebot-websites/chromebot.cf?label=which%20is&logo=react&logoColor=white)
