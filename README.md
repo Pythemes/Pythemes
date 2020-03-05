@@ -11,15 +11,14 @@ Here you will find a collction of themes by:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/chromebot-websites/chromebot.cf?logo=react&logoColor=white)<br/>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/chromebot-websites/chromebot.cf?label=and&logo=react&logoColor=white)<br/>
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/chromebot-websites/chromebot.cf?label=which%20is&logo=react&logoColor=white)<br/>
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/chromebot-websites/chromebot.cf?label=which%20is&logo=react&logoColor=white)
+<br/>
 ![Using github actions](https://img.shields.io/badge/Build%20with-github%20actions-red?logo=github)<br/>
 ![Community on discord](https://img.shields.io/badge/Community%20on-discord-orange?logo=discord&logoColor=white)<br/>
 ![Using webstorm](https://img.shields.io/badge/Using%20jetbrains-webstorm-1ABEE4?logo=webstorm)<br/>
 ![Using heroku](https://img.shields.io/badge/Backend%20from-heroku-430098?logo=heroku)<br/>
 ![Using github pages](https://img.shields.io/badge/Hosting%20from-github%20pages-black?logo=github)<br/>
-
-![Discord](https://img.shields.io/discord/480959345601937410?color=yellow&label=Discord&logo=discord&logoColor=white)<br/>
+<br/>
 ![GitHub issues](https://img.shields.io/github/issues/chromebot-websites/chromebot.cf?logo=github)<br/>
 ![GitHub PRs](https://img.shields.io/github/issues-pr/chromebot-websites/chromebot.cf?logo=github)<br/>
 
